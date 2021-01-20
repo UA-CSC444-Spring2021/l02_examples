@@ -1,0 +1,13 @@
+p {
+  background-color: lightgray;
+  font-size: 20pt;
+}
+
+#firstpara {
+  color: blue;
+  font-size: 10pt;
+}
+
+.next {
+  color: red;
+}
