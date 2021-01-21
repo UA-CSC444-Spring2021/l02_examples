@@ -15,5 +15,5 @@ These examples cover some of the basics of HTML, CSS, SVG:
 
 ## Acknowledgement
 
-The text used in Example 1 is from Amanda Gormon's
+The text used in Example 1 is from Amanda Gorman's
 2021 inauguration poem "The Hill We Climb", taken from [https://www.rev.com/blog/transcripts/amanda-gorman-inauguration-poem-transcript-the-hill-we-climb](https://www.rev.com/blog/transcripts/amanda-gorman-inauguration-poem-transcript-the-hill-we-climb)
